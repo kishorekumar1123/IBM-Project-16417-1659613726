@@ -6,7 +6,7 @@ TEAM ID : PNT2022TMID39833
 ## 👨‍👩‍👦TEAM MEMBERS
  -Raza Abbas MF(Team Leader)<br>
  -Rahamathulla S<br>
- -Sharan S<br>
+ -Sharan N<br>
  -Thanveer Ahmed S<br>
  -Mujeebur Rahman A R
 
